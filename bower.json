@@ -1,0 +1,17 @@
+{
+    "name": "shortstack-googlefont",
+    "license": "OFL",
+    "authors": [
+        "James Grieshaber"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/shortstack-bower.git"
+    },
+    "description": "Short Stack font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
